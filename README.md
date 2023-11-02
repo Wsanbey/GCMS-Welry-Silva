@@ -1,4 +1,4 @@
-> Repositorio Exclusito para disciplina de GCMS
+> Repositório exclusivo para a disciplina de GCMS.
 
 ### GCMS-Welry-Silva
 
